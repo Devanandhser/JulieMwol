@@ -2,7 +2,7 @@
 <div align="center">
   <img border-radius: 15px src="https://avatars.githubusercontent.com/u/83164448?v=4" width="200" height="200"/>
   <p align="center">
-<a href="#"><img title="DEVANANDH" src="https://img.shields.io/badge/JulieMwol-green?colorA=%23ff0000&colorB=%23017e40&style=for-the-badge"></a>
+<a href="#"><img title="DEVANANDH" src="https://i.imgur.com/6CqMv7z.jpg"></a>
 </p>
   <p align="center">
 <a href="https://github.com/farhan-dqz"><img title="Author" src="https://img.shields.io/badge/Author-farhan-dqz/JulieMwol?color=blue&style=for-the-badge&logo=whatsapp"></a>
@@ -53,6 +53,8 @@ If Repl.it not working Try Termux for Qr scanning.Just Copy the Link Below in Te
 ```
 bash <(curl -L https://t.ly/tHxh)
 ``` 
+  
+href="#"><img title="DEVANANDH" src="https://i.imgur.com/6CqMv7z.jpg"></a>  
   
 ### The Hard Method
 ```js
