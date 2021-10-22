@@ -1,6 +1,6 @@
 
 <div align="center">
-  <img border-radius: 15px src="https://avatars.githubusercontent.com/u/83164448?v=4" width="200" height="200"/>
+  <img border-radius: 15px src="" width="200" height="200"/>
   <p align="center">
 <a href="#"><img title="DEVANANDH" src="https://i.imgur.com/6CqMv7z.jpg"></a>
 </p>
